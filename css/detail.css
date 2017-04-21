@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.detail {
+    width: 300px;
+    padding: 10px;
+    margin: 20px auto;
+    border: 1px solid orchid;
+}
+#userName{
+    width: 200px;
+    height: 30px;
+    outline: none;
+}
+#submit{
+    width: 50px;
+    height: 30px;
+    outline: none;
+background: lemonchiffon;
+    border: 1px solid lemonchiffon;
+    cursor: pointer;
+}
